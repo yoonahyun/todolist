@@ -1,10 +1,12 @@
 import React, {Component} from 'react';
 import './App.css';
-import TodoTemplate from './TodoTemplate';
-
+import TodoTemplate from './components/TodoTemplate';
+import TodoInsert from './components/TodoInsert';
 
 const App=()=>{
-  return<TodoTemplate>todo앱을 만들자</TodoTemplate>
+  return<TodoTemplate>
+    <TodoInsert/>
+  </TodoTemplate>
 };
 
 
