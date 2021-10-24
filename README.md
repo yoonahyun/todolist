@@ -1,7 +1,10 @@
-# todolist url : https://todolistnahyun.netlify.app/
+# 🎟todolist url : https://todolistnahyun.netlify.app/
 
 사용프로그램:React
 
 
-![todolist main](https://user-images.githubusercontent.com/75116294/138552650-8715848e-0e00-4968-9bc0-c8c389170248.png),
-![todolist main2](https://user-images.githubusercontent.com/75116294/138552699-f7168820-74b3-4e27-a6be-9524c070ab8b.png)
+
+## 🖼 페이지 ![todolist main](https://user-images.githubusercontent.com/75116294/138583432-e28c1827-51ce-401a-a3a0-de8e0e02723d.png),![todolist main2](https://user-images.githubusercontent.com/75116294/138583433-2fbea47d-78d6-45c9-b818-d361a35fcd8e.png)
+
+
+*간단한 메모장으로 활용가능하다. (날짜 선택,수정 기능을 넣을 예정)
