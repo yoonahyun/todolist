@@ -7,12 +7,14 @@ input{
     
     outline: none;
     padding: 0.5rem;
-    border: none;
+    border:none;
     margin-left: 1rem;
+    margin-right: 1rem;
     font-size: 1.2rem;
     line-height: 1.5;
     color: rgb(0, 0, 0);
     flex: 1;
+    margin-top: 1rem;
     
 }
 
@@ -23,7 +25,7 @@ color: #a9aeb3;
 
 button{
     border-radius: 10px;
-   margin-right: 1rem;
+   margin-right: 0.5rem;
     outline: none;
     border: none;
     background-color: #76b98bab;
@@ -34,6 +36,7 @@ button{
     align-items: center;
     display: flex;
     cursor: pointer;
+   
     
     
 }

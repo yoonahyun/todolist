@@ -1,7 +1,9 @@
 import React, {useState,useRef,useCallback} from 'react';
 import TodoTemplate from './components/TodoTemplate';
+import Calendar from './components/Calendar';
 import TodoInsert from './components/TodoInsert';
 import Todolist from './components/Todolist';
+
 
 const App=()=>{
 
@@ -50,9 +52,13 @@ const App=()=>{
 
 
 
+ 
+
   return(<TodoTemplate>
+     <Calendar></Calendar>
     <TodoInsert onInsert={onInsert}/>
     <Todolist todos={todos} onRemove={onRemove} onToggle={onToggle}/>
+   
   </TodoTemplate>
   );
 };

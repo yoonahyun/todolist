@@ -6,7 +6,7 @@
     margin-left: auto;
     margin-right: auto;
     margin-top: 6rem;
-   border: 4px solid #000000;
+   border: 3px solid #000000;
    border-radius: 20px;
     overflow: hidden;
 
@@ -27,6 +27,8 @@
 .content{
     background-color: white;
     font-size: 20px;
+    text-align: center;
+    
+    
     
 }
-
